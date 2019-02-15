@@ -7,5 +7,7 @@ cask 'alifix' do
   name 'alifix'
   homepage 'https://eclecticlight.co/downloads/'
 
+  depends_on macos: '>= :sierra'
+
   app 'alifix10b2/Alifix.app'
 end
