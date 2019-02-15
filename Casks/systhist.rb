@@ -4,8 +4,10 @@ cask 'systhist' do
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
   url 'https://eclecticlightdotcom.files.wordpress.com/2018/11/systhist17.zip'
-  name 'systhist'
-  homepage 'https://eclecticlight.co/2018/11/17/lockrattler-4-16-and-systhist-1-7-are-now-available/'
+  name 'SystHist'
+  homepage 'https://eclecticlight.co/'
+
+  depends_on macos: '>= :el_capitan'
 
   app 'systhist17/SystHist.app'
 end
