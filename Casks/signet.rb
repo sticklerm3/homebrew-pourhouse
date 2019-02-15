@@ -7,5 +7,7 @@ cask 'signet' do
   name 'Signet'
   homepage 'https://eclecticlight.co/'
 
+  depends_on macos: '>= :high_sierra'
+
   app 'signet10b2/Signet.app'
 end
