@@ -1,13 +1,13 @@
 cask 'podofyllin' do
-  version '1.0b1'
-  sha256 '21d87b215561859b40701f9213ec297e2818db2575864b5cfb7f4c45c220a6b2'
+  version '1.0b3'
+  sha256 'a269618c15b2942d5b7e3ee5489e8e2fdefd8c4cfd74bb55be53ac66a85ae0fe'
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
-  url 'https://eclecticlightdotcom.files.wordpress.com/2019/02/podofyllin10b1.zip'
+  url 'https://eclecticlightdotcom.files.wordpress.com/2019/02/podofyllin10b3.zip'
   name 'Podofyllin'
   homepage 'https://eclecticlight.co/'
 
   depends_on macos: '>= :sierra'
 
-  app 'podofyllin10b1/Podofyllin.app'
+  app 'podofyllin10b3/Podofyllin.app'
 end
