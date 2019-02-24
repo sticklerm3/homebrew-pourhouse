@@ -35,6 +35,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |     Dispatch View     |  1.0   |  Sierra\*   | `dispatchview`          |
 |       WoodPile        | 1.0b6  |  Sierra\*   | `woodpile`              |
 |    Keychain Check     |  1.3   |  Sierra\*   | `keychaincheck`         |
+|     Apfelstrudel      |  1.2   | Sierra cask | `apfelstrudel`          |
 |     Consolation2      | 3.0b17 |   Sierra    | `consolation3`          |
 |        Alifix         | 1.0b2  |   Sierra    | `alifix`                |
 |       DelightEd       |  1.1   |   Sierra    | `delighted`             |
