@@ -12,7 +12,7 @@ First add me to your taps in Homebrew with:
 $ brew tap sticklerm3/pourhouse
 ```
 
-This creates a shallow clone of `sticklerm3/brewery` to `$(brew --repo)/Library/Taps/sticklerm3/pourhouse`.
+This creates a shallow clone of `sticklerm3/pourhouse` to `$(brew --repo)/Library/Taps/sticklerm3/pourhouse`.
 
 Then, you can continue to use `brew cask install <formula>` for anything unless for some reason theres another cask with the same name, simply identify the tap before the formula: `brew cask install sticklerm3/pourhouse/<formula>`
 
