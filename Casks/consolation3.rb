@@ -7,7 +7,7 @@ cask 'consolation3' do
   name 'Consolation3'
   homepage 'https://eclecticlight.co/'
 
-  depends_on macos: [:sierra, :high_sierra]
+  depends_on macos: '>= :sierra'
 
   app 'consolation3b17/Consolation3.app'
 end
