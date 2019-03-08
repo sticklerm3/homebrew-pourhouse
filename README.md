@@ -35,7 +35,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |     Dispatch View     |  1.0   |  Sierra\*   | `dispatchview`          |
 |       WoodPile        | 1.0b6  |  Sierra\*   | `woodpile`              |
 |    Keychain Check     |  1.3   |  Sierra\*   | `keychaincheck`         |
-|     Apfelstrudel      |  1.2   | Sierra | `apfelstrudel`          |
+|     Apfelstrudel      |  1.2   |   Sierra    | `apfelstrudel`          |
 |     Consolation2      | 3.0b17 |   Sierra    | `consolation3`          |
 |        Alifix         | 1.0b2  |   Sierra    | `alifix`                |
 |       DelightEd       |  1.1   |   Sierra    | `delighted`             |
@@ -45,7 +45,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |       Route Map       | 1.0b2  |   Sierra    | `routemap`              |
 |   Keychain Check 2    | 2.0a4  |   Sierra    | `keychaincheck2`        |
 |       Dystextia       |  1.5   |   Sierra    | `dystextia`             |
-|      Podofyllin       | 1.0b3  |   Sierra    | `podofyllin`            |
+|      Podofyllin       | 1.0b6  |   Sierra    | `podofyllin`            |
 |  Permission Scanner   |  1.3   |   Sierra    | `permissionscanner`     |
 | RepairHomePermissions |  1.1   |   Sierra    | `repairhomepermissions` |
 |        Bailiff        |  1.3   | El Capitan  | `bailiff`               |
