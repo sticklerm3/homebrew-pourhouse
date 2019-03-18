@@ -45,7 +45,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |       Route Map       | 1.0b2  |   Sierra    | `routemap`              |
 |   Keychain Check 2    | 2.0a4  |   Sierra    | `keychaincheck2`        |
 |       Dystextia       |  1.5   |   Sierra    | `dystextia`             |
-|      Podofyllin       | 1.0b6  |   Sierra    | `podofyllin`            |
+|      Podofyllin       | 1.0b12 |   Sierra    | `podofyllin`            |
 |  Permission Scanner   |  1.3   |   Sierra    | `permissionscanner`     |
 | RepairHomePermissions |  1.1   |   Sierra    | `repairhomepermissions` |
 |        Bailiff        |  1.3   | El Capitan  | `bailiff`               |
