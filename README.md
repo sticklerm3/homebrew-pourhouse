@@ -69,9 +69,10 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 
 I'm currently still learning how to write formula and ruby, so bear with me! Since the CLI tools are already in binary formats, I'm pretty sure I found the correct way to install them with Homebrew. Below is a chart with the formula name and various information just like above.
 
-|  App   | Vers. |  Min. OS   | Formula Name |
-| :----: | :---: | :--------: | :----------- |
-| alisma |  1.1  | El Capitan | `alisma`     |
+|   App    | Vers. |  Min. OS   | Formula Name |
+| :------: | :---: | :--------: | :----------- |
+|  alisma  |  1.1  | El Capitan | `alisma`     |
+| Blowhole |  8.0  |   Sierra   | `blowhole`   |
 
 ## Documentation
 
