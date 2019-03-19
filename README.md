@@ -73,6 +73,7 @@ I'm currently still learning how to write formula and ruby, so bear with me! Sin
 | :------: | :---: | :--------: | :----------- |
 |  alisma  |  1.1  | El Capitan | `alisma`     |
 | Blowhole |  8.0  |   Sierra   | `blowhole`   |
+|  unorml  |  2.1  |   Sierra   | `unorml`     |
 
 ## Documentation
 
