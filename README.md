@@ -65,6 +65,14 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 
 > **Important:** Apps that reauire Sierra with a "\*" next to them run on _Sierra & High Sierra ONLY_
 
+## CLI Tools
+
+I'm currently still learning how to write formula and ruby, so bear with me! Since the CLI tools are already in binary formats, I'm pretty sure I found the correct way to install them with Homebrew. Below is a chart with the formula name and various information just like above.
+
+|  App   | Vers. |  Min. OS   | Formula Name |
+| :----: | :---: | :--------: | :----------- |
+| alisma |  1.1  | El Capitan | `alisma`     |
+
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
