@@ -71,8 +71,10 @@ I'm currently still learning how to write formula and ruby, so bear with me! Sin
 
 |   App    | Vers. |  Min. OS   | Formula Name |
 | :------: | :---: | :--------: | :----------- |
-|  alisma  |  1.1  | El Capitan | `alisma`     |
 | Blowhole |  8.0  |   Sierra   | `blowhole`   |
+|  alisma  |  1.1  | El Capitan | `alisma`     |
+| alisma |  1.1  | El Capitan | `alisma`     |
+| cmpxat |  1.0  | El Capitan | `cmpxat`     |
 
 ## Documentation
 
