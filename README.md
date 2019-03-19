@@ -1,6 +1,6 @@
 # Sticklerm3's Brewery
 
-[![Build Status](https://dev.azure.com/MatthewStickler/MatthewStickler/_apis/build/status/sticklerm3.homebrew-pourhouse?branchName=master)](https://dev.azure.com/MatthewStickler/MatthewStickler/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://travis-ci.com/sticklerm3/homebrew-pourhouse.svg?branch=master)](https://travis-ci.com/sticklerm3/homebrew-pourhouse)
 
 Welcome to my pourhouse! This is my tap for some casks I wanted to automate the installation of. So far, I just have a hand-full completed and they're all from Howard Oakley over at [Eclectic Light Co.][6f8d9867] in the [Downloads][02b6cdf0] section. Eventually, I'll get to having a list of the casks I've written, links to their App's info & version numbers & dependencies below!
 
