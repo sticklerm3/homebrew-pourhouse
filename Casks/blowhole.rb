@@ -15,6 +15,5 @@ cask 'blowhole' do
 
   caveats do
     "Additional documentation about how to use #{token} can be found at #{staged_path}"
-    "An additional .plist file can be found at #{[staged_path]} as a daemon"
   end
 end
