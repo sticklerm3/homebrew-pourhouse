@@ -2,6 +2,7 @@ cask 'unorml' do
   version '2.1'
   sha256 'a7e2cf4aa244426f1c4a9f766f4d934483132e7e9e4e4735fa890e1f45d7e2aa'
 
+  # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
   url 'https://eclecticlightdotcom.files.wordpress.com/2018/07/unorml21.zip'
   name 'unorml'
   homepage 'https://eclecticlight.co/'
