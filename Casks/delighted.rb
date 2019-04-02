@@ -1,13 +1,15 @@
 cask 'delighted' do
-  version '1.1'
-  sha256 '6789635e1412e9fad71ddeed4008801e4fdbd658240fe8d0ebaa23332feb64bb'
+  version '1.2'
+  sha256 'c04bd111dc261c1602f02101610eae25fb5672a45aaec53125970ef36718c072'
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
-  url 'https://eclecticlightdotcom.files.wordpress.com/2018/12/DelightEd11.zip'
+  url 'https://eclecticlightdotcom.files.wordpress.com/2019/04/delighted12.zip'
   name 'DelightEd'
   homepage 'https://eclecticlight.co/'
 
   depends_on macos: '>= :sierra'
 
-  app 'DelightEd11/DelightEd.app'
+  app 'DelightEd12/DelightEd.app'
+
+  caveats "Additional documentation about #{token} and its usage can be found at #{staged_path}"
 end
