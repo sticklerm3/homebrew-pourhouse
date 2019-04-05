@@ -36,6 +36,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |       WoodPile        | 1.0b6  |  Sierra\*   | `woodpile`              |
 |    Keychain Check     |  1.3   |  Sierra\*   | `keychaincheck`         |
 |     Apfelstrudel      |  1.2   |   Sierra    | `apfelstrudel`          |
+|      ArchiChect       | 1.0b1  |   Sierra    | archichect              |
 |     Consolation2      | 3.0b17 |   Sierra    | `consolation3`          |
 |        Alifix         | 1.0b2  |   Sierra    | `alifix`                |
 |       DelightEd       |  1.2   |   Sierra    | `delighted`             |
@@ -72,7 +73,7 @@ I'm currently still learning how to write formula and ruby, so bear with me! Sin
 |   App    | Vers. |  Min. OS   | Formula Name |
 | :------: | :---: | :--------: | :----------- |
 |  alisma  |  1.1  | El Capitan | `alisma`     |
-| cmpxat |  1.0  | El Capitan | `cmpxat`     |
+|  cmpxat  |  1.0  | El Capitan | `cmpxat`     |
 | Blowhole |  8.0  |   Sierra   | `blowhole`   |
 |  unorml  |  2.1  |   Sierra   | `unorml`     |
 
