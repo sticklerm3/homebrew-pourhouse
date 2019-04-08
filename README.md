@@ -51,7 +51,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 | RepairHomePermissions |  1.1   |   Sierra    | `repairhomepermissions` |
 |        Bailiff        |  1.3   | El Capitan  | `bailiff`               |
 |      32-bitcheck      |  1.6   | El Capitan  | `32-bitcheck`           |
-|      LockRattler      |  4.18  | El Capitan  | `lockrattler`           |
+|      LockRattler      |  4.19  | El Capitan  | `lockrattler`           |
 |       SystHist        |  1.7   | El Capitan  | `systhist`              |
 |        Cirrus         |  1.3   | El Capitan  | `cirrus`                |
 |        Precize        |  1.7   | El Capitan  | `precize`               |
@@ -64,7 +64,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |    Search Key Lite    |  1.2   | El Capitan  | `searchkeylite`         |
 |      UTIUtility       | 1.0b3  | El Capitan  | `utiutility`            |
 
-> **Important:** Apps that reauire Sierra with a "\*" next to them run on _Sierra & High Sierra ONLY_
+> **Important:** Apps that require Sierra with a "\*" next to them run on _Sierra & High Sierra ONLY_
 
 ## CLI Tools
 
