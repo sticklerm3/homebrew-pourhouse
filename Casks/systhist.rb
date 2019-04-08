@@ -1,13 +1,15 @@
 cask 'systhist' do
-  version '1.7'
-  sha256 'fa01dc3654e7eabb6e654dfd7b55b07492068fca684c4d7fd97f6ef0025b4940'
+  version '1.8,2019.04'
+  sha256 '22c9fdc401ab521fc7e2d388174ec8a474cbd5dccfbf18f4c375b5e8dadb81a5'
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
-  url 'https://eclecticlightdotcom.files.wordpress.com/2018/11/systhist17.zip'
-  name 'SystHist'
+  url "https://eclecticlightdotcom.files.wordpress.com/#{version.after_comma.dots_to_slashes}/systhist#{version.before_comma.major}#{version.before_comma.minor}.zip"
+  name 'Syst Hist'
   homepage 'https://eclecticlight.co/'
 
   depends_on macos: '>= :el_capitan'
 
-  app 'systhist17/SystHist.app'
+  app "systhist#{version.before_comma.major}#{version.before_comma.minor}/SystHist.app"
+
+  caveats "Additional documentation about #{token} and its usage can be found at #{staged_path}"
 end
