@@ -9,7 +9,7 @@ cask 'taccy' do
 
   depends_on macos: '>= :sierra'
 
-  app "taccy#{version.before_comma.major}#{version.before_comma.minor}/Taccy.app"
+  app "taccy#{version.before_comma.no_dots}/Taccy.app"
   
   caveats "Additional documentation about #{token} and its usage can be found at #{staged_path}"
 end
