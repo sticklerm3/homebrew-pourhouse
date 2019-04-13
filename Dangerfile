@@ -2,15 +2,18 @@
 # including in a project's CHANGELOG for example
 declared_trivial = github.pr_title.include? "#trivial"
 
+github.review.start github.review.fail(message)
+github.review.warn(message)
+github.review.message(message)
+github.review.markdown(message)
+github.review.submit
+# REVIEW: dsl
+
 # Make it more obvious that a PR is a work in progress and shouldn't be merged yet
 warn("PR is classed as Work in Progress") if github.pr_title.include? "[WIP]"
 
 # Warn when there is a big PR
 warn("Big PR") if git.lines_of_code > 500
-
-# Don't let testing shortcuts get into master by accident
-fail("fdescribe left in tests") if `grep -r fdescribe specs/ `.length > 1
-fail("fit left in tests") if `grep -r fit specs/ `.length > 1
 
 # CHECK THAT ADDED LINES CONTAINS AGREED FORM OF WORDS
 git.diff.each do |chunk|

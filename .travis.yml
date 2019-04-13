@@ -50,5 +50,9 @@ install:
 
 script: brew cask ci
 
+branches:
+  - test
+
+
 notifications:
   email: false
