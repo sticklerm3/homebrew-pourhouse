@@ -8,7 +8,7 @@ cask 'taccy' do
   homepage 'https://eclecticlight.co/'
 
   depends_on macos: '>= :sierra'
-
+  
   app "taccy#{version.before_comma.no_dots}/Taccy.app"
   
   caveats "Additional documentation about #{token} and its usage can be found at #{staged_path}"
