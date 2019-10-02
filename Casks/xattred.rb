@@ -7,7 +7,7 @@ cask 'xattred' do
   name 'Xattred'
   homepage 'https://eclecticlight.co/'
 
-  depends_on macos: '>= 10.11'
+  depends_on macos: '>= :el_capitan'
 
   app 'xattred10b10/xattred.app'
 end

@@ -7,7 +7,7 @@ cask 'deeptools' do
   name 'DeepTools'
   homepage 'https://eclecticlight.co/downloads/'
 
-  depends_on macos: '>= 10.11'
+  depends_on macos: '>= :el_capitan'
 
   app 'deeptools12/DeepUnarchive.app'
   app 'deeptools12/DeepArchive.app'

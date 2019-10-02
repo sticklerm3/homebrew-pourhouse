@@ -7,7 +7,7 @@ cask 'cirrus' do
   name 'Cirrus'
   homepage 'https://eclecticlight.co/'
 
-  depends_on macos: '>= 10.11'
+  depends_on macos: '>= :el_capitan'
 
   app 'cirrus13/Cirrus.app'
 end
