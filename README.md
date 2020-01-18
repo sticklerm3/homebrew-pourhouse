@@ -30,7 +30,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |          App          | Ver. # |   Min. OS   | Token                   |
 | :-------------------: | :----: | :---------: | :---------------------- |
 |       Nalaprop        | 1.0b10  |   Mojave    | `nalaprop`              |
-|        Signet         | 1.0b2  | High Sierra | `signet`                |
+|        Signet         | 1.2  | High Sierra | `signet`                |
 |     Consolation2      |  2.4   |  Sierra\*   | `consolation2`          |
 |     Dispatch View     |  1.0   |  Sierra\*   | `dispatchview`          |
 |       WoodPile        | 1.0b6  |  Sierra\*   | `woodpile`              |
