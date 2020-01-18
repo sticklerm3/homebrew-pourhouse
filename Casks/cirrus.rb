@@ -1,13 +1,13 @@
 cask 'cirrus' do
-  version '1.3'
-  sha256 '5496c3fee46e8ba18e2d0943e44fcf24c6e95e1d27421696cc29345e903986cb'
+  version '1.8'
+  sha256 'eba55b36a2a044d3aace9764fdaa5fb441a139405aee37ae36cc9fc286e53bd2'
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
-  url 'https://eclecticlightdotcom.files.wordpress.com/2018/11/cirrus13.zip'
+  url 'https://eclecticlightdotcom.files.wordpress.com/2019/09/cirrus18.zip'
   name 'Cirrus'
   homepage 'https://eclecticlight.co/'
 
-  depends_on macos: '>= 10.11'
+  depends_on macos: '>= :el_capitan'
 
-  app 'cirrus13/Cirrus.app'
+  app 'cirrus18/Cirrus.app'
 end
