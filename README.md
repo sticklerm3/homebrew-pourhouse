@@ -52,7 +52,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 | RepairHomePermissions |   1.1  |    Sierra   | `repairhomepermissions` |
 |        Bailiff        |   1.3  |  El Capitan | `bailiff`               |
 |      32-bitcheck      |   1.6  |  El Capitan | `32-bitcheck`           |
-|      LockRattler      |  4.19  |  El Capitan | `lockrattler`           |
+|      LockRattler      |  4.24  |  El Capitan | `lockrattler`           |
 |      SilentKnight     |   1.6  |  El Capitan | 'siletknight'           |
 |        SystHist       |   1.8  |  El Capitan | `systhist`              |
 |         Cirrus        |   1.3  |  El Capitan | `cirrus`                |
