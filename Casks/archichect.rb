@@ -3,7 +3,7 @@ cask 'archichect' do
   sha256 '6dd3eaba09b198164153b14bbc43f43624e39cd769b4f16c512e197749604a20'
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
-  url "https://eclecticlightdotcom.files.wordpress.com/#{version.after_comma.dots_to_slashes}/archichect#{version.before_comma.major}#{version.before_comma.minor}.zip"
+  url "https://eclecticlightdotcom.files.wordpress.com/#{version.after_comma.major}/#{version.after_comma.minor}/archichect#{version.before_comma.no_dots}.zip"
   name 'ArchiChect'
   homepage 'https://eclecticlight.co/'
 
