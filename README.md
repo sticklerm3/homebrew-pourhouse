@@ -57,7 +57,8 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |        SystHist       |  1.12  |  El Capitan | `systhist`              |
 |        Precize        |   1.9  |  El Capitan | `precize`               |
 |         Cirrus        |   1.8  |  El Capitan | `cirrus`                |
-|      Revisionist      |   1.2  |  El Capitan | `revisionist`           |
+|        Precize        |   1.7  |  El Capitan | `precize`               |
+|      Revisionist      |   1.7  |  El Capitan | `revisionist`           |
 |        Xattred        | 1.0b10 |  El Capitan | `xattred`               |
 |         Scrub         |  1.0b2 |  El Capitan | `scrub`                 |
 |     Aquiline Check    | 1.0b2a |  El Capitan | `aquilinecheck`         |
