@@ -9,5 +9,5 @@ cask 'signet' do
 
   depends_on macos: '>= :high_sierra'
 
-  app 'signet12s/Signet.app'
+  app 'signet12/Signet.app'
 end
