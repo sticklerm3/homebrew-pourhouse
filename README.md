@@ -50,16 +50,17 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |       Podofyllin      | 1.0b15 |    Sierra   | `podofyllin`            |
 |   Permission Scanner  |   1.3  |    Sierra   | `permissionscanner`     |
 | RepairHomePermissions |   1.1  |    Sierra   | `repairhomepermissions` |
-|        Bailiff        |   1.3  |  El Capitan | `bailiff`               |
+|        Bailiff        |   1.4  |  El Capitan | `bailiff`               |
 |      32-bitcheck      |   1.8  |  El Capitan | `32-bitcheck`           |
 |      LockRattler      |  4.24  |  El Capitan | `lockrattler`           |
 |      SilentKnight     |   1.6  |  El Capitan | 'siletknight'           |
 |        SystHist       |  1.12  |  El Capitan | `systhist`              |
+|        Precize        |   1.9  |  El Capitan | `precize`               |
 |         Cirrus        |   1.8  |  El Capitan | `cirrus`                |
 |        Precize        |   1.7  |  El Capitan | `precize`               |
+|        Xattred        |   1.1  |  El Capitan | `xattred`               |
 |      Revisionist      |   1.7  |  El Capitan | `revisionist`           |
-|        Xattred        | 1.0b10 |  El Capitan | `xattred`               |
-|         Scrub         |  1.0b2 |  El Capitan | `scrub`                 |
+|         Scrub         |   1.0  |  El Capitan | `scrub`                 |
 |     Aquiline Check    | 1.0b2a |  El Capitan | `aquilinecheck`         |
 |       Deep Tools      |   1.2  |  El Capitan | `deeptools`             |
 |       Search Key      |   1.3  |  El Capitan | `searchkey`             |
