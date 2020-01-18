@@ -7,7 +7,7 @@ cask 'aquiline-check' do
   name 'Aquiline Check'
   homepage 'https://eclecticlight.co/downloads/'
 
-  depends_on macos: '>= 10.11'
+  depends_on macos: '>= :el_capitan'
 
   app 'aquiline10b2a/Aquiline Check.app'
 end
