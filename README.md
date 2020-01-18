@@ -54,7 +54,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |      32-bitcheck      |   1.6  |  El Capitan | `32-bitcheck`           |
 |      LockRattler      |  4.19  |  El Capitan | `lockrattler`           |
 |      SilentKnight     |   1.6  |  El Capitan | 'siletknight'           |
-|        SystHist       |   1.8  |  El Capitan | `systhist`              |
+|        SystHist       |  1.12  |  El Capitan | `systhist`              |
 |         Cirrus        |   1.3  |  El Capitan | `cirrus`                |
 |        Precize        |   1.7  |  El Capitan | `precize`               |
 |      Revisionist      |   1.2  |  El Capitan | `revisionist`           |
