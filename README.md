@@ -75,7 +75,7 @@ I'm currently still learning how to write formula and ruby, so bear with me! Sin
 | :------: | :---: | :--------: | :----------- |
 |  alisma  |  1.1  | El Capitan | `alisma`     |
 |  cmpxat  |  1.0  | El Capitan | `cmpxat`     |
-|  silnet  |  4.0  | El Capitan | `silnite`    |
+|  silnite |  4.0  | El Capitan | `silnite`    |
 | Blowhole |  8.0  |   Sierra   | `blowhole`   |
 |  unorml  |  2.1  |   Sierra   | `unorml`     |
 
