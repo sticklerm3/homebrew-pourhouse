@@ -37,7 +37,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |        WoodPile       |  1.0b6 |   Sierra\*  | `woodpile`              |
 |     Keychain Check    |   1.3  |   Sierra\*  | `keychaincheck`         |
 |      Apfelstrudel     |   1.2  |    Sierra   | `apfelstrudel`          |
-|       ArchiChect      |   1.0  |    Sierra   | archichect              |
+|       ArchiChect      |   1.0  |    Sierra   | `archichect`            |
 |      Consolation2     | 3.0b17 |    Sierra   | `consolation3`          |
 |         Alifix        |  1.0b2 |    Sierra   | `alifix`                |
 |       DelightEd       |   1.2  |    Sierra   | `delighted`             |
@@ -53,7 +53,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |        Bailiff        |   1.4  |  El Capitan | `bailiff`               |
 |      32-bitcheck      |   1.8  |  El Capitan | `32-bitcheck`           |
 |      LockRattler      |  4.24  |  El Capitan | `lockrattler`           |
-|      SilentKnight     |   1.6  |  El Capitan | 'siletknight'           |
+|      SilentKnight     |   1.6  |  El Capitan | `siletknight`           |
 |        SystHist       |  1.12  |  El Capitan | `systhist`              |
 |        Precize        |   1.9  |  El Capitan | `precize`               |
 |         Cirrus        |   1.8  |  El Capitan | `cirrus`                |
