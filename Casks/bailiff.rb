@@ -1,13 +1,13 @@
 cask 'bailiff' do
-  version '1.3'
-  sha256 '9c6f357244b61ea3a35120a14a88cc9e0fd664a25f92ec7cb32d0bf0b947a313'
+  version '1.4'
+  sha256 'c6d677ec05c0b22a112580b1c72b7865303ef3b162b4d55efc162188dbef58e4'
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
-  url 'https://eclecticlightdotcom.files.wordpress.com/2018/11/bailiff13.zip'
+  url 'https://eclecticlightdotcom.files.wordpress.com/2019/08/bailiff14.zip'
   name 'Bailiff'
   homepage 'https://eclecticlight.co/'
 
-  depends_on macos: '>= 10.11'
+  depends_on macos: '>= :el_capitan'
 
-  app 'bailiff13/Bailiff.app'
+  app 'bailiff14/Bailiff.app'
 end
