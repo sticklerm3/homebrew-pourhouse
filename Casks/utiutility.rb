@@ -7,7 +7,7 @@ cask 'utiutility' do
   name 'UTIutility'
   homepage 'https://eclecticlight.co/downloads/'
 
-  depends_on macos: '>= 10.11'
+  depends_on macos: '>= :el_capitan'
 
   app 'utiutil10b3/UTIutility.app'
 end

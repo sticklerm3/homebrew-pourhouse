@@ -7,7 +7,7 @@ cask 'revisionist' do
   name 'Revisionist'
   homepage 'https://eclecticlight.co/downloads/'
 
-  depends_on macos: '>= 10.11'
+  depends_on macos: '>= :el_capitan'
 
   app 'revisionist12/Revisionist.app'
 end

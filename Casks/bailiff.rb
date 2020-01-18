@@ -7,7 +7,7 @@ cask 'bailiff' do
   name 'Bailiff'
   homepage 'https://eclecticlight.co/'
 
-  depends_on macos: '>= 10.11'
+  depends_on macos: '>= :el_capitan'
 
   app 'bailiff13/Bailiff.app'
 end

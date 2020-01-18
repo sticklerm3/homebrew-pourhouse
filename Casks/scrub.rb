@@ -7,7 +7,7 @@ cask 'scrub' do
   name 'Scrub'
   homepage 'https://eclecticlight.co/downloads/'
 
-  depends_on macos: '>= 10.11'
+  depends_on macos: '>= :el_capitan'
 
   app 'scrub10b2/Scrub.app'
 end

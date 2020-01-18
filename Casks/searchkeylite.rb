@@ -7,7 +7,7 @@ cask 'searchkeylite' do
   name 'SearchKeyLite'
   homepage 'https://eclecticlight.co/downloads/'
 
-  depends_on macos: '>= 10.11'
+  depends_on macos: '>= :el_capitan'
 
   app 'searchkeylite12/SearchkeyLite.app'
 end
