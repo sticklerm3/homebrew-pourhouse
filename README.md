@@ -61,7 +61,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |        Xattred        | 1.0b10 |  El Capitan | `xattred`               |
 |         Scrub         |  1.0b2 |  El Capitan | `scrub`                 |
 |     Aquiline Check    | 1.0b2a |  El Capitan | `aquilinecheck`         |
-|       Deep Tools      |   1.2  |  El Capitan | `deeptools`             |
+|       Deep Tools      |   1.3  |  El Capitan | `deeptools`             |
 |       Search Key      |   1.2  |  El Capitan | `searchkey`             |
 |    Search Key Lite    |   1.2  |  El Capitan | `searchkeylite`         |
 |       UTIUtility      |  1.0b3 |  El Capitan | `utiutility`            |
