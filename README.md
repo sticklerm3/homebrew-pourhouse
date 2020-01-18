@@ -62,10 +62,11 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |      Revisionist      |   1.7  |  El Capitan | `revisionist`           |
 |         Scrub         |   1.0  |  El Capitan | `scrub`                 |
 |     Aquiline Check    | 1.0b2a |  El Capitan | `aquilinecheck`         |
+|       Deep Tools      |   1.3  |  El Capitan | `deeptools`             |
+|       UTIUtility      |   1.0  |  El Capitan | `utiutility`            |
 |       Deep Tools      |   1.2  |  El Capitan | `deeptools`             |
 |    Search Key Lite    |   1.3  |  El Capitan | `searchkeylite`         |
 |       Search Key      |   1.3  |  El Capitan | `searchkey`             |
-|       UTIUtility      |  1.0b3 |  El Capitan | `utiutility`            |
 
 > **Important:** Apps that require Sierra with a "\*" next to them run on _Sierra & High Sierra ONLY_
 
