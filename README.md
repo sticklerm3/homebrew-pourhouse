@@ -60,7 +60,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |        Precize        |   1.7  |  El Capitan | `precize`               |
 |        Xattred        |   1.1  |  El Capitan | `xattred`               |
 |      Revisionist      |   1.7  |  El Capitan | `revisionist`           |
-|         Scrub         |  1.0b2 |  El Capitan | `scrub`                 |
+|         Scrub         |   1.0  |  El Capitan | `scrub`                 |
 |     Aquiline Check    | 1.0b2a |  El Capitan | `aquilinecheck`         |
 |       Deep Tools      |   1.2  |  El Capitan | `deeptools`             |
 |       Search Key      |   1.2  |  El Capitan | `searchkey`             |
