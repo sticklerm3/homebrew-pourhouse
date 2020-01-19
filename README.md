@@ -2,9 +2,13 @@
 
 [![Build Status](https://travis-ci.com/sticklerm3/homebrew-pourhouse.svg?branch=master)](https://travis-ci.com/sticklerm3/homebrew-pourhouse)
 
-Welcome to my pourhouse! This is my tap for some casks I wanted to automate the installation of. So far, I just have a hand-full completed and they're all from Howard Oakley over at [Eclectic Light Co.][6f8d9867] in the [Downloads][02b6cdf0] section. Eventually, I'll get to having a list of the casks I've written, links to their App's info & version numbers & dependencies below!
+Welcome to the pourhouse! This is my own tap, mainatained by me, consisting of software and applications by Howard Oakely which can be found at [EclecticLight.co](https://eclecticlight.co). See below for installation and usage and a list of casks, theyre current version number and its formulas name can be found below.
 
 ## Installation
+
+First off you need [Homebrew][e6c56791] installed.
+
+[e6c56791]: https://brew.sh "Homebrew the missing package manager!"
 
 First add me to your taps in Homebrew with:
 
