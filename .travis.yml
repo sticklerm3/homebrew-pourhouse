@@ -14,6 +14,9 @@ cache:
     - /usr/local/Homebrew/Library/Homebrew/vendor/bundle
     - /usr/local/Homebrew/Library/Homebrew/vendor/portable-ruby
 
+before_install:
+  - bundle install
+
 install:
   - |
     # Force strict error checking.
@@ -44,7 +47,9 @@ install:
     rsync -az --delete "${TRAVIS_BUILD_DIR}/" "${TAP_DIR}/"
     export TRAVIS_BUILD_DIR="${TAP_DIR}"
     builtin cd "${TAP_DIR}"
-script: brew cask ci
+script:
+  - brew cask ci
+  - bundle exec danger
 
 notifications:
   email: false
