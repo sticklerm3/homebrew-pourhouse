@@ -6,30 +6,26 @@ Welcome to my pourhouse! This is my tap for some casks I wanted to automate the 
 
 ## Getting Started
 
-First you need Homebrew installed if you don’t already. To install open Terminal and paste the following: 
+First you need Homebrew installed if you don’t already. To install open Terminal and paste the following:
 
 ```ruby
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-Verify everything installed correctly by running `brew doctor` then you can add my tap by running: 
+Verify everything installed correctly by running `brew doctor` then you can add my tap by running:
 
 ```sh
-$ brew tap sticklerm3/pourhouse
+brew tap sticklerm3/pourhouse
 ```
 
 This creates a shallow clone of `sticklerm3/pourhouse` to `$(brew --repo)/Library/Taps/sticklerm3/pourhouse`.
 
 Then, you can continue to use `brew cask install <formula>` for anything unless for some reason theres another cask with the same name, simply identify the tap before the formula: `brew cask install sticklerm3/pourhouse/<formula>`
 
-[6f8d9867]: https://eclecticlight.co "Eclectic Light Co"
-
-[02b6cdf0]: https://eclecticlight.co/downloads/ "EC: Downloads"
-
 Or install via URL (which will not receive updates):
 
 ```sh
-$ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhouse/master/Casks/<formula>.rb
+brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhouse/master/Casks/<formula>.rb
 ```
 
 ## List of Casks
@@ -93,8 +89,24 @@ I’m still newer at writing formula/Ruby so bear with me here. The following ar
 
 ## Advanced Usage
 
-For more information on using the brew command run `brew help` or `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+For more information on using the brew command run `brew help` or `man brew` or check [Homebrew's documentation][223b9045].
 
 ## Contributing
 
-If you notice an error, have a contribution or an update, feel free to fork the repo & submit a pull request! If creating/updating a cask formula be sure it’s properly filled out and passes the tests.  I created this tap as a place for awesome MacOS software that wasn’t included in the core cask repository, if you have any awesome MacOS applications that you think I should include, don’t be afraid to suggest it, or even better: fork me and create a pull request! 
+If you notice an error, have a contribution or an update, feel free to fork the repo & submit a pull request! If creating/updating a cask formula be sure it’s properly filled out and passes the tests.  I created this tap as a place for awesome MacOS software that wasn’t included in the core cask repository, if you have any awesome MacOS applications that you think I should include, don’t be afraid to suggest it, or even better: fork me and create a pull request!
+
+## Useful Links
+
+-   [EclecticLight Homepage][6f8d9867]
+-   [EclecticLight Downloads][02b6cdf0]
+-   [EclecticLight Mac Troubeshooting](https://eclecticlight.co/2017/04/18/a-mac-troubleshooting-summary/)
+-   [Homebrew Homepage][9d01861c]
+-   [Homebrew Docs][223b9045]
+
+[6f8d9867]: https://eclecticlight.co "Eclectic Light Co"
+
+[02b6cdf0]: https://eclecticlight.co/downloads/ "EC: Downloads"
+
+[223b9045]: https://docs.brew.sh "Homebrew docs"
+
+[9d01861c]: https://brew.sh "Homebrew"
