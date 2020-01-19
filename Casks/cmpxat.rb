@@ -9,7 +9,7 @@ cask 'cmpxat' do
 
   pkg 'cmpxat2/CmpxatInstaller.pkg'
 
-  uninstall pkgutil: 'co.eclecticlight.pkg.cmpxatInstaller'
+  uninstall pkgutil: 'co.eclecticlight.pkg.CmpxatInstaller'
 
   caveats do
     "Additional documentation about how to use #{token} can be found at #{staged_path}"
