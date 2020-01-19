@@ -1,13 +1,13 @@
 cask 'cmpxat' do
-  version '1.0'
-  sha256 '824d74424fabdf76108fa9929325886430d69cd34de00da9e52ee627159ddd19'
+  version '2.0'
+  sha256 '1445871aa08906fa2c6111f95a6480b99f516e4c530eede02f9728266f44bfa3'
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
-  url 'https://eclecticlightdotcom.files.wordpress.com/2018/07/cmpxat1.zip'
+  url 'https://eclecticlightdotcom.files.wordpress.com/2019/06/cmpxat2.zip'
   name 'cmpxat'
   homepage 'https://eclecticlight.co/'
 
-  pkg 'cmpxat1/cmpxat.pkg'
+  pkg 'cmpxat2/cmpxat.pkg'
 
   uninstall pkgutil: 'co.eclecticlight.pkg.cmpxatInstaller'
 
