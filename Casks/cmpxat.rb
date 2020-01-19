@@ -7,7 +7,7 @@ cask 'cmpxat' do
   name 'cmpxat'
   homepage 'https://eclecticlight.co/'
 
-  pkg 'cmpxat2/cmpxat.pkg'
+  pkg 'cmpxat2/CmpxatInstaller.pkg'
 
   uninstall pkgutil: 'co.eclecticlight.pkg.cmpxatInstaller'
 
