@@ -40,14 +40,15 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |       ArchiChect      |   1.0  |    Sierra   | `archichect`            |
 |      Consolation2     | 3.0b17 |    Sierra   | `consolation3`          |
 |         Alifix        |   1.1  |    Sierra   | `alifix`                |
+|      Consolation3     |   3.7  |    Sierra   | `consolation3`          |
 |       DelightEd       |   1.2  |    Sierra   | `delighted`             |
 |         Taccy         |  1.0b7 |    Sierra   | `taccy`                 |
-|          T2M2         |   1.4  |    Sierra   | `t2m2`                  |
+|          T2M2         |  1.12  |    Sierra   | `t2m2`                  |
 |        Whither        |   1.0  |    Sierra   | `whither`               |
 |       Route Map       |  1.0b2 |    Sierra   | `routemap`              |
 |    Keychain Check 2   |  2.0a4 |    Sierra   | `keychaincheck2`        |
 |       Dystextia       |   1.5  |    Sierra   | `dystextia`             |
-|       Podofyllin      | 1.0b15 |    Sierra   | `podofyllin`            |
+|       Podofyllin      | 1.0b17 |    Sierra   | `podofyllin`            |
 |   Permission Scanner  |   1.3  |    Sierra   | `permissionscanner`     |
 | RepairHomePermissions |   1.1  |    Sierra   | `repairhomepermissions` |
 |        Bailiff        |   1.4  |  El Capitan | `bailiff`               |
