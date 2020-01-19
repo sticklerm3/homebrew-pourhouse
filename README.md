@@ -1,4 +1,4 @@
-# Sticklerm3's Brewery
+# The Pourhouse
 
 [![Build Status](https://travis-ci.com/sticklerm3/homebrew-pourhouse.svg?branch=master)](https://travis-ci.com/sticklerm3/homebrew-pourhouse)
 
