@@ -41,7 +41,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |       ArchiChect      |   2.1  |    Sierra   | `archichect`            |
 |         Alifix        |  1.0b2 |    Sierra   | `alifix`                |
 |       DelightEd       |   1.2  |    Sierra   | `delighted`             |
-|         Taccy         |  1.0b7 |    Sierra   | `taccy`                 |
+|         Taccy         |   1.8  |    Sierra   | `taccy`                 |
 |          T2M2         |  1.12  |    Sierra   | `t2m2`                  |
 |        Whither        |   1.0  |    Sierra   | `whither`               |
 |       Route Map       |  1.0b2 |    Sierra   | `routemap`              |
