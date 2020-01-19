@@ -1,13 +1,13 @@
 cask 'consolation3' do
-  version '3.0b17'
-  sha256 '83fe8cdafe169a57b70a6b5f23b757e4e0d1c58c38796c2f1308fb74423ffb24'
+  version '3.7'
+  sha256 '6a40db817a4a756c38cdfc8d9f8ec40b3ad75a58f05fc785b4752d83e773c5e6'
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
-  url 'https://eclecticlightdotcom.files.wordpress.com/2018/11/consolation3b17.zip'
+  url 'https://eclecticlightdotcom.files.wordpress.com/2020/01/consolation37.zip'
   name 'Consolation3'
   homepage 'https://eclecticlight.co/'
 
   depends_on macos: '>= :sierra'
 
-  app 'consolation3b17/Consolation3.app'
+  app 'consolation37/Consolation3.app'
 end
