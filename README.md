@@ -38,7 +38,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 |     Keychain Check    |   1.3  |   Sierra\*  | `keychaincheck`         |
 |      Apfelstrudel     |   1.2  |    Sierra   | `apfelstrudel`          |
 |       ArchiChect      |   1.0  |    Sierra   | `archichect`            |
-|      Consolation2     | 3.0b17 |    Sierra   | `consolation3`          |
+|      Consolation3     |   3.7  |    Sierra   | `consolation3`          |
 |         Alifix        |  1.0b2 |    Sierra   | `alifix`                |
 |       DelightEd       |   1.2  |    Sierra   | `delighted`             |
 |         Taccy         |  1.0b7 |    Sierra   | `taccy`                 |
