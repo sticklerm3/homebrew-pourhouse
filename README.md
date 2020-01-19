@@ -2,11 +2,17 @@
 
 [![Build Status](https://travis-ci.com/sticklerm3/homebrew-pourhouse.svg?branch=master)](https://travis-ci.com/sticklerm3/homebrew-pourhouse)
 
-Welcome to my pourhouse! This is my tap for some casks I wanted to automate the installation of. So far, I just have a hand-full completed and they're all from Howard Oakley over at [Eclectic Light Co.][6f8d9867] in the [Downloads][02b6cdf0] section. Eventually, I'll get to having a list of the casks I've written, links to their App's info & version numbers & dependencies below!
+Welcome to my pourhouse! This is my tap for some casks I wanted to automate the installation of. So far, I just have a hand-full completed and they're all from Howard Oakley over at [Eclectic Light Co.][6f8d9867] in the [Downloads][02b6cdf0] section. There is a list below of the currently enabled applications and it’s corresponding `token`.
 
-## Installation
+## Getting Started
 
-First add me to your taps in Homebrew with:
+First you need Homebrew installed if you don’t already. To install open Terminal and paste the following: 
+
+```ruby
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+Verify everything installed correctly by running `brew doctor` then you can add my tap by running: 
 
 ```sh
 $ brew tap sticklerm3/pourhouse
@@ -72,7 +78,7 @@ $ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourho
 
 ## CLI Tools
 
-I'm currently still learning how to write formula and ruby, so bear with me! Since the CLI tools are already in binary formats, I'm pretty sure I found the correct way to install them with Homebrew. Below is a chart with the formula name and various information just like above.
+I’m still newer at writing formula/Ruby so bear with me here. The following are CLI utilities that are installed using `brew cask` as their binaries are already compiled. Use the same syntax to install as above (`brew cask install alisma`)
 
 |    App   | Vers. |   Min. OS  | Formula Name |
 | :------: | :---: | :--------: | :----------- |
@@ -82,10 +88,10 @@ I'm currently still learning how to write formula and ruby, so bear with me! Sin
 | Blowhole |  8.0  |   Sierra   | `blowhole`   |
 |  unorml  |  2.1  |   Sierra   | `unorml`     |
 
-## Documentation
+## Advanced Usage
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+For more information on using the brew command run `brew help` or `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
 
 ## Contributing
 
-If you notice an error, have a contribution or an update, feel free to fork the repo & submit a pull request!
+If you notice an error, have a contribution or an update, feel free to fork the repo & submit a pull request! If creating/updating a cask formula be sure it’s properly filled out and passes the tests.  I created this tap as a place for awesome MacOS software that wasn’t included in the core cask repository, if you have any awesome MacOS applications that you think I should include, don’t be afraid to suggest it, or even better: fork me and create a pull request! 
