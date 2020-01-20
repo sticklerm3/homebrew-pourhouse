@@ -1,15 +1,15 @@
 cask 'unorml' do
-  version '2.1'
-  sha256 'a7e2cf4aa244426f1c4a9f766f4d934483132e7e9e4e4735fa890e1f45d7e2aa'
+  version '3.0'
+  sha256 '187b04fbeecfddc46a006d4b45edb64e8b4c739f3136c43a70ece746c7657994'
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
-  url 'https://eclecticlightdotcom.files.wordpress.com/2018/07/unorml21.zip'
+  url 'https://eclecticlightdotcom.files.wordpress.com/2019/06/unorml3.zip'
   name 'unorml'
   homepage 'https://eclecticlight.co/'
 
   depends_on macos: '>= :sierra'
 
-  pkg 'unorml21/Unorml.pkg'
+  pkg 'unorml3/UnormlInstaller.pkg'
 
   uninstall pkgutil: 'co.eclecticlight.pkg.UnormlInstaller'
 

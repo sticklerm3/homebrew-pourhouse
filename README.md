@@ -102,7 +102,7 @@ I’m still newer at writing formula/Ruby so bear with me here. The following ar
 | Blowhole |  9.0  |   Sierra   | `blowhole`   |
 |  cmpxat  |  2.0  | El Capitan | `cmpxat`     |
 |  silnite |  4.0  | El Capitan | `silnite`    |
-|  unorml  |  2.1  |   Sierra   | `unorml`     |
+|  unorml  |  3.0  |   Sierra   | `unorml`     |
 
 ## Advanced Usage
 
