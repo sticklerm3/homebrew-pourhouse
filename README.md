@@ -30,66 +30,91 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 
 ## List of Casks
 
-|          App          | Ver. # |   Min. OS   | Token                   |
-| :-------------------: | :----: | :---------: | :---------------------- |
-|        Nalaprop       | 1.0b10 |    Mojave   | `nalaprop`              |
-|         Signet        |   1.2  | High Sierra | `signet`                |
-|      Consolation2     |   2.4  |   Sierra\*  | `consolation2`          |
-|     Dispatch View     |   1.0  |   Sierra\*  | `dispatchview`          |
-|        WoodPile       |  1.0b6 |   Sierra\*  | `woodpile`              |
-|     Keychain Check    |   1.3  |   Sierra\*  | `keychaincheck`         |
-|       Sandstrip       |   1.1  |    Sierra   | `sandstrip`             |
-|      Apfelstrudel     |   1.2  |    Sierra   | `apfelstrudel`          |
-|       ArchiChect      |   1.0  |    Sierra   | `archichect`            |
-|       DelightEd       |  2.0b2 |    Sierra   | `delighted`             |
-|         Alifix        |   1.1  |    Sierra   | `alifix`                |
-|      Consolation3     |   3.7  |    Sierra   | `consolation3`          |
-|       ArchiChect      |   2.1  |    Sierra   | `archichect`            |
-|         Alifix        |  1.0b2 |    Sierra   | `alifix`                |
-|       DelightEd       |   1.2  |    Sierra   | `delighted`             |
-|         Taccy         |   1.8  |    Sierra   | `taccy`                 |
-|          T2M2         |  1.12  |    Sierra   | `t2m2`                  |
-|        Whither        |   1.0  |    Sierra   | `whither`               |
-|       Route Map       |  1.0b2 |    Sierra   | `routemap`              |
-|    Keychain Check 2   |  2.0a4 |    Sierra   | `keychaincheck2`        |
-|       Dystextia       |   1.5  |    Sierra   | `dystextia`             |
-|       Podofyllin      | 1.0b17 |    Sierra   | `podofyllin`            |
-|   Permission Scanner  |   1.3  |    Sierra   | `permissionscanner`     |
-| RepairHomePermissions |   1.1  |    Sierra   | `repairhomepermissions` |
-|        Pratique       |   1.1  |    Sierra   | `pratique`              |
-|        Bailiff        |   1.4  |  El Capitan | `bailiff`               |
-|      32-bitcheck      |   1.8  |  El Capitan | `32-bitcheck`           |
-|      LockRattler      |  4.24  |  El Capitan | `lockrattler`           |
-|      SilentKnight     |   1.6  |  El Capitan | `siletknight`           |
-|        SystHist       |  1.12  |  El Capitan | `systhist`              |
-|        Precize        |   1.9  |  El Capitan | `precize`               |
-|         Cirrus        |   1.8  |  El Capitan | `cirrus`                |
-|        Precize        |   1.7  |  El Capitan | `precize`               |
-|        Xattred        |   1.1  |  El Capitan | `xattred`               |
-|      Revisionist      |   1.7  |  El Capitan | `revisionist`           |
-|         Scrub         |   1.0  |  El Capitan | `scrub`                 |
-|     Aquiline Check    | 1.0b2a |  El Capitan | `aquilinecheck`         |
-|       Deep Tools      |   1.3  |  El Capitan | `deeptools`             |
-|       UTIUtility      |   1.0  |  El Capitan | `utiutility`            |
-|       Deep Tools      |   1.2  |  El Capitan | `deeptools`             |
-|    Search Key Lite    |   1.3  |  El Capitan | `searchkeylite`         |
-|       Search Key      |   1.3  |  El Capitan | `searchkey`             |
+### High Sierra & Later
 
-> **Important:** Apps that require Sierra with a "\*" next to them run on _Sierra & High Sierra ONLY_
+|   App  | Ver. # |   Min. OS   | Token    |
+| :----: | :----: | :---------: | :------- |
+| Signet |   1.2  | High Sierra | `signet` |
 
-## CLI Tools
+### Mojave & Later
+
+|    App   | Ver. # | Min. OS | Token      |
+| :------: | :----: | :-----: | :--------- |
+| Nalaprop | 1.0b10 |  Mojave | `nalaprop` |
+
+### Sierra and High Sierra only
+
+|       App      | Ver. # | Min. OS | Token           |
+| :------------: | :----: | :-----: | :-------------- |
+|  Consolation2  |   2.4  |  Sierra | `consolation2`  |
+|  Dispatch View |   1.0  |  Sierra | `dispatchview`  |
+| Keychain Check |   1.3  |  Sierra | `keychaincheck` |
+|    WoodPile    |  1.0b6 |  Sierra | `woodpile`      |
+
+### Sierra and up
+
+|          App          | Ver. # | Min. OS | Token                   |
+| :-------------------: | :----: | :-----: | :---------------------- |
+|         Alifix        |   1.1  |  Sierra | `alifix`                |
+|      Apfelstrudel     |   1.2  |  Sierra | `apfelstrudel`          |
+|       ArchiChect      |   2.1  |  Sierra | `archichect`            |
+|      Consolation3     |   3.7  |  Sierra | `consolation3`          |
+|       DelightEd       |  2.0b2 |  Sierra | `delighted`             |
+|       Dystextia       |   1.5  |  Sierra | `dystextia`             |
+|    Keychain Check 2   |  2.0a4 |  Sierra | `keychaincheck2`        |
+|   Permission Scanner  |   1.3  |  Sierra | `permissionscanner`     |
+|       Podofyllin      | 1.0b17 |  Sierra | `podofyllin`            |
+|        Pratique       |   1.1  |  Sierra | `pratique`              |
+| RepairHomePermissions |   1.1  |  Sierra | `repairhomepermissions` |
+|       Route Map       |  1.0b2 |  Sierra | `routemap`              |
+|       Sandstrip       |   1.1  |  Sierra | `sandstrip`             |
+|         Taccy         |   1.8  |  Sierra | `taccy`                 |
+|          T2M2         |  1.12  |  Sierra | `t2m2`                  |
+|        Whither        |   1.0  |  Sierra | `whither`               |
+
+### El Capitan and newer
+
+|       App       | Ver. # |   Min. OS  | Token           |
+| :-------------: | :----: | :--------: | :-------------- |
+|   32-bitcheck   |   1.8  | El Capitan | `32-bitcheck`   |
+|  Aquiline Check | 1.0b2a | El Capitan | `aquilinecheck` |
+|     Bailiff     |   1.4  | El Capitan | `bailiff`       |
+|      Cirrus     |   1.8  | El Capitan | `cirrus`        |
+|    Deep Tools   |   1.3  | El Capitan | `deeptools`     |
+|   LockRattler   |  4.24  | El Capitan | `lockrattler`   |
+|     Precize     |   1.9  | El Capitan | `precize`       |
+|   Revisionist   |   1.7  | El Capitan | `revisionist`   |
+|      Scrub      |   1.0  | El Capitan | `scrub`         |
+|    Search Key   |   1.3  | El Capitan | `searchkey`     |
+| Search Key Lite |   1.3  | El Capitan | `searchkeylite` |
+|   SilentKnight  |   1.6  | El Capitan | `siletknight`   |
+|     SystHist    |  1.12  | El Capitan | `systhist`      |
+|    UTIUtility   |   1.0  | El Capitan | `utiutility`    |
+|     Xattred     |   1.1  | El Capitan | `xattred`       |
+
+### CLI Tools
 
 I’m still newer at writing formula/Ruby so bear with me here. The following are CLI utilities that are installed using `brew cask` as their binaries are already compiled. Use the same syntax to install as above (`brew cask install alisma`)
 
 |    App   | Vers. |   Min. OS  | Formula Name |
 | :------: | :---: | :--------: | :----------- |
 |  alisma  |  2.0  | El Capitan | `alisma`     |
+| Blowhole |  8.0  |   Sierra   | `blowhole`   |
 |  cmpxat  |  2.0  | El Capitan | `cmpxat`     |
 |  silnite |  4.0  | El Capitan | `silnite`    |
-| Blowhole |  8.0  |   Sierra   | `blowhole`   |
 |  unorml  |  2.1  |   Sierra   | `unorml`     |
 
 ## Advanced Usage
+
+Update homebrew with `brew update`. Upgrade any updated formula and casks with `brew cask upgrade`.
+
+If you frequently use the command line, it may be useful to create an alias for  `brew cask`. Add the following to your `.bashrc`, `.profile`, `.zshrc` or wherever you keep your aliases for your shell:
+
+```bash
+alias cask='brew cask'
+```
+
+I have my own plugin for zsh of useful `brew` and  `brew cask` aliases which can be found at [sticklerm3/alehouse][80447341]. See the projects Readme for installation and usage.
 
 For more information on using the brew command run `brew help` or `man brew` or check [Homebrew's documentation][223b9045].
 
@@ -112,3 +137,5 @@ If you notice an error, have a contribution or an update, feel free to fork the 
 [223b9045]: https://docs.brew.sh "Homebrew docs"
 
 [9d01861c]: https://brew.sh "Homebrew"
+
+[80447341]: https://github.com/sticklerm3/alehouse "Alehouse"

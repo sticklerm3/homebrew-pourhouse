@@ -2,3 +2,14 @@ theme: jekyll-theme-cayman
 
 title: Eclectic Casks
 description: A macOS Homebrew tap!
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor
+  - Dangerfile
+  - Casks/
