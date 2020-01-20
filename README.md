@@ -82,7 +82,7 @@ I’m still newer at writing formula/Ruby so bear with me here. The following ar
 |    App   | Vers. |   Min. OS  | Formula Name |
 | :------: | :---: | :--------: | :----------- |
 |  alisma  |  1.1  | El Capitan | `alisma`     |
-|  cmpxat  |  1.0  | El Capitan | `cmpxat`     |
+|  cmpxat  |  2.0  | El Capitan | `cmpxat`     |
 |  silnite |  4.0  | El Capitan | `silnite`    |
 | Blowhole |  8.0  |   Sierra   | `blowhole`   |
 |  unorml  |  2.1  |   Sierra   | `unorml`     |
