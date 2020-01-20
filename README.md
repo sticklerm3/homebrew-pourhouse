@@ -79,7 +79,7 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 |   32-bitcheck   |   1.8  | El Capitan | `32-bitcheck`   |
 |  Aquiline Check | 1.0b2a | El Capitan | `aquilinecheck` |
 |     Bailiff     |   1.4  | El Capitan | `bailiff`       |
-|      Cirrus     |   1.8  | El Capitan | `cirrus`        |
+|      Cirrus     |   1.9  | El Capitan | `cirrus`        |
 |    Deep Tools   |   1.3  | El Capitan | `deeptools`     |
 |   LockRattler   |  4.24  | El Capitan | `lockrattler`   |
 |     Precize     |   1.9  | El Capitan | `precize`       |
