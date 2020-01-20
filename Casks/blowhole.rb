@@ -1,15 +1,15 @@
 cask 'blowhole' do
-  version '8.0'
-  sha256 '17e06e234d7295cece5d3048c64a6f3c269d4f4fc886a14ab43a9fc4d362a068'
+  version '9.0'
+  sha256 '6be1c73f33772d874b58a2b61a7ef12dd8b4320d161de14d489ded2d0ed5b97a'
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
-  url 'https://eclecticlightdotcom.files.wordpress.com/2018/08/blowhole8.zip'
+  url 'https://eclecticlightdotcom.files.wordpress.com/2019/06/blowhole9.zip'
   name 'blowhole'
   homepage 'https://eclecticlight.co/'
 
   depends_on macos: '>= :sierra'
 
-  pkg 'blowhole8/blowhole.pkg'
+  pkg 'blowhole9/BlowholeInstaller.pkg'
 
   uninstall pkgutil: 'co.eclecticlight.pkg.BlowholeInstaller'
 
