@@ -4,7 +4,7 @@ cask 'keychaincheck2' do
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
   url 'https://eclecticlightdotcom.files.wordpress.com/2019/08/keychaincheck21.zip'
-  name "KeychainCheck2"
+  name 'KeychainCheck2'
   homepage 'https://eclecticlight.co/'
 
   depends_on macos: '>= :sierra'
