@@ -38,6 +38,7 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 |     Dispatch View     |   1.0  |   Sierra\*  | `dispatchview`          |
 |        WoodPile       |  1.0b6 |   Sierra\*  | `woodpile`              |
 |     Keychain Check    |   1.3  |   Sierra\*  | `keychaincheck`         |
+|       Sandstrip       |   1.1  |    Sierra   | `sandstrip`             |
 |      Apfelstrudel     |   1.2  |    Sierra   | `apfelstrudel`          |
 |       ArchiChect      |   1.0  |    Sierra   | `archichect`            |
 |       DelightEd       |  2.0b2 |    Sierra   | `delighted`             |
