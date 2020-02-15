@@ -87,7 +87,7 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 |      Scrub      |   1.0  | El Capitan | `scrub`         |
 |    Search Key   |   1.3  | El Capitan | `searchkey`     |
 | Search Key Lite |   1.3  | El Capitan | `searchkeylite` |
-|   SilentKnight  |   1.6  | El Capitan | `siletknight`   |
+|   SilentKnight  |   1.6  | El Capitan | `silentknight`   |
 |     SystHist    |  1.12  | El Capitan | `systhist`      |
 |    UTIUtility   |   1.0  | El Capitan | `utiutility`    |
 |     Xattred     |   1.1  | El Capitan | `xattred`       |
