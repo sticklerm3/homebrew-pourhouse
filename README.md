@@ -54,23 +54,24 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 ### Sierra and up
 
 |          App          | Ver. # | Min. OS | Token                   |
-| :-------------------: | :----: | :-----: | :---------------------- |
-|         Alifix        |   1.1  |  Sierra | `alifix`                |
-|      Apfelstrudel     |   1.2  |  Sierra | `apfelstrudel`          |
-|       ArchiChect      |   2.1  |  Sierra | `archichect`            |
-|      Consolation3     |   3.7  |  Sierra | `consolation3`          |
-|       DelightEd       |  2.0b2 |  Sierra | `delighted`             |
-|       Dystextia       |   1.5  |  Sierra | `dystextia`             |
-|    Keychain Check 2   |  2.0b1 |  Sierra | `keychaincheck2`        |
-|   Permission Scanner  |   1.3  |  Sierra | `permissionscanner`     |
-|       Podofyllin      | 1.0b17 |  Sierra | `podofyllin`            |
-|        Pratique       |   1.1  |  Sierra | `pratique`              |
-| RepairHomePermissions |   1.1  |  Sierra | `repairhomepermissions` |
-|       Route Map       |  1.0b2 |  Sierra | `routemap`              |
-|       Sandstrip       |   1.1  |  Sierra | `sandstrip`             |
-|         Taccy         |   1.8  |  Sierra | `taccy`                 |
-|          T2M2         |  1.12  |  Sierra | `t2m2`                  |
-|        Whither        |   1.0  |  Sierra | `whither`               |
+|:---------------------:|:------:|:-------:|:------------------------|
+|        Alifix         |  1.1   | Sierra  | `alifix`                |
+|     Apfelstrudel      |  1.2   | Sierra  | `apfelstrudel`          |
+|      ArchiChect       |  2.1   | Sierra  | `archichect`            |
+|     Consolation3      |  3.7   | Sierra  | `consolation3`          |
+|       DelightEd       | 2.0b2  | Sierra  | `delighted`             |
+|       Dystextia       |  1.5   | Sierra  | `dystextia`             |
+|   Keychain Check 2    | 2.0b1  | Sierra  | `keychaincheck2`        |
+|  Permission Scanner   |  1.3   | Sierra  | `permissionscanner`     |
+|      Podofyllin       | 1.0b17 | Sierra  | `podofyllin`            |
+|       Pratique        |  1.1   | Sierra  | `pratique`              |
+| RepairHomePermissions |  1.1   | Sierra  | `repairhomepermissions` |
+|       Route Map       | 1.0b2  | Sierra  | `routemap`              |
+|       Sandstrip       |  1.1   | Sierra  | `sandstrip`             |
+|         Taccy         |  1.8   | Sierra  | `taccy`                 |
+|         T2M2          |  1.12  | Sierra  | `t2m2`                  |
+|         Ulbow         |  1.1   | Sierra  | `ulbow`                 |
+|        Whither        |  1.0   | Sierra  | `whither`               |
 
 ### El Capitan and newer
 
