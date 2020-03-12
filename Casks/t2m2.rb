@@ -10,5 +10,5 @@ cask 't2m2' do
 
   depends_on macos: '>= :sierra'
 
-  app 't2m2112/TheTimeMachineMechanic.app'
+  app 't2m2114/TheTimeMachineMechanic.app'
 end
