@@ -56,7 +56,7 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 |          App          | Ver. # | Min. OS | Token                   |
 |:---------------------:|:------:|:-------:|:------------------------|
 |        Alifix         |  1.1   | Sierra  | `alifix`                |
-|     Apfelstrudel      |  1.2   | Sierra  | `apfelstrudel`          |
+|     Apfelstrudel      |  1.3   | Sierra  | `apfelstrudel`          |
 |      ArchiChect       |  2.1   | Sierra  | `archichect`            |
 |     Consolation3      |  3.7   | Sierra  | `consolation3`          |
 |       DelightEd       | 2.0b2  | Sierra  | `delighted`             |
