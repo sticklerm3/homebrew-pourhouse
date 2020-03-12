@@ -60,7 +60,7 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 |      ArchiChect       |  2.1   | Sierra  | `archichect`            |
 |     Consolation3      |  3.7   | Sierra  | `consolation3`          |
 |       DelightEd       | 2.0b2  | Sierra  | `delighted`             |
-|       Dystextia       |  1.5   | Sierra  | `dystextia`             |
+|       Dystextia       |  1.6   | Sierra  | `dystextia`             |
 |   Keychain Check 2    | 2.0b1  | Sierra  | `keychaincheck2`        |
 |  Permission Scanner   |  1.3   | Sierra  | `permissionscanner`     |
 |      Podofyllin       | 1.0b17 | Sierra  | `podofyllin`            |
