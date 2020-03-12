@@ -62,7 +62,7 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 |       DelightEd       | 2.0b2  | Sierra  | `delighted`             |
 |       Dystextia       |  1.6   | Sierra  | `dystextia`             |
 |   Keychain Check 2    | 2.0b1  | Sierra  | `keychaincheck2`        |
-|  Permission Scanner   |  1.3   | Sierra  | `permissionscanner`     |
+|  Permission Scanner   |  1.7   | Sierra  | `permissionscanner`     |
 |      Podofyllin       | 1.0b17 | Sierra  | `podofyllin`            |
 |       Pratique        |  1.1   | Sierra  | `pratique`              |
 | RepairHomePermissions |  1.1   | Sierra  | `repairhomepermissions` |
