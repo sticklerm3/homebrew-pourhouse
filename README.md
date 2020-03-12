@@ -69,7 +69,7 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 |       Route Map       | 1.0b2  | Sierra  | `routemap`              |
 |       Sandstrip       |  1.1   | Sierra  | `sandstrip`             |
 |         Taccy         |  1.8   | Sierra  | `taccy`                 |
-|         T2M2          |  1.12  | Sierra  | `t2m2`                  |
+|         T2M2          |  1.14  | Sierra  | `t2m2`                  |
 |         Ulbow         |  1.1   | Sierra  | `ulbow`                 |
 |        Whither        |  1.0   | Sierra  | `whither`               |
 
