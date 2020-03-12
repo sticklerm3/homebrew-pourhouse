@@ -1,0 +1,4 @@
+inheret_from:
+  - https://github.com/Homebrew/brew/blob/master/Library/.rubocop.yml
+  - https://github.com/Homebrew/brew/blob/master/Library/.rubocop_cask.yml
+  - https://github.com/Homebrew/brew/blob/master/Library/.rubocop_shared.yml
