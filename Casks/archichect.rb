@@ -5,11 +5,11 @@ cask 'archichect' do
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
   url "https://eclecticlightdotcom.files.wordpress.com/#{version.after_comma.major}/#{version.after_comma.minor}/archichect#{version.before_comma.no_dots}.zip"
   name 'ArchiChect'
-  homepage 'https://eclecticlight.co/'
+  homepage 'https://eclecticlight.co/32-bitcheck-archichect/'
 
   depends_on macos: '>= :sierra'
 
-  app "archichect#{version.before_comma.major}#{version.before_comma.minor}/ArchiChect.app"
+  app "archichect#{version.before_comma.no_dots}/ArchiChect.app"
 
   caveats "Additional documentation about #{token} and its usage can be found at #{staged_path}"
 end
