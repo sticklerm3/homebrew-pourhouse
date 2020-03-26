@@ -1,13 +1,13 @@
 cask 'ulbow' do
-  version '1.1'
-  sha256 'b8e9ddd087600345f5b625b59e629729009cc2f7822cf196f96f2bec25596152'
+  version '1.2b2'
+  sha256 '42d2489276bc85592ea8790509c57889770d0d5c0c256550d0c6415550cead79'
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
-  url 'https://eclecticlightdotcom.files.wordpress.com/2020/03/ulbow11.zip'
+  url 'https://eclecticlightdotcom.files.wordpress.com/2020/03/ulbow12b2.zip'
   name 'ulbow'
-  homepage 'https://eclecticlight.co/downloads/'
+  homepage 'https://eclecticlight.co/consolation-t2m2-and-log-utilities/'
 
   depends_on macos: '>= :sierra'
 
-  app 'ulbow11/Ulbow.app'
+  app 'ulbow12b2/Ulbow.app'
 end
