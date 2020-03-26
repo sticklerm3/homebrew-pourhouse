@@ -70,7 +70,7 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 |       Sandstrip       |  1.1   | Sierra  | `sandstrip`             |
 |         Taccy         |  1.8   | Sierra  | `taccy`                 |
 |         T2M2          |  1.14  | Sierra  | `t2m2`                  |
-|         Ulbow         |  1.1   | Sierra  | `ulbow`                 |
+|         Ulbow         |  1.2b2 | Sierra  | `ulbow`                 |
 |        Whither        |  1.0   | Sierra  | `whither`               |
 
 ### El Capitan and newer
