@@ -1,4 +1,4 @@
 rubocop:
   enabled: true
   config_file: rubocop.yml
-  version: 0.80.1
+  version: 0.80.0
