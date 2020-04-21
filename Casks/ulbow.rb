@@ -1,6 +1,6 @@
 cask 'ulbow' do
-  version '1.2b2,2020.03'
-  sha256 '42d2489276bc85592ea8790509c57889770d0d5c0c256550d0c6415550cead79'
+  version '1.2,2020.03'
+  sha256 'd6bc27d8772c40319d240bfae38ffce292dd181507579862096cc9a8f12b7c5e'
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
   url "https://eclecticlightdotcom.files.wordpress.com/#{version.after_comma.major}/#{version.after_comma.minor}/ulbow#{version.before_comma.no_dots}.zip"
