@@ -14,7 +14,7 @@ First you need Homebrew installed if you don’t already. To install open Termin
 
 Verify everything installed correctly by running `brew doctor` then you can add my tap by running:
 
-```sh
+```bash
 brew tap sticklerm3/pourhouse
 ```
 
@@ -24,7 +24,7 @@ Then, you can continue to use `brew cask install <formula>` for anything unless 
 
 Or install via URL (which will not receive updates):
 
-```sh
+```bash
 brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhouse/master/Casks/<formula>.rb
 ```
 
@@ -70,7 +70,7 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 |       Sandstrip       |  1.1   | Sierra  | `sandstrip`             |
 |         Taccy         |  1.8   | Sierra  | `taccy`                 |
 |         T2M2          |  1.14  | Sierra  | `t2m2`                  |
-|         Ulbow         |  1.2b2 | Sierra  | `ulbow`                 |
+|         Ulbow         |  1.2   | Sierra  | `ulbow`                 |
 |        Whither        |  1.0   | Sierra  | `whither`               |
 
 ### El Capitan and newer
