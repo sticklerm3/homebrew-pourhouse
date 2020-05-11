@@ -65,6 +65,7 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 |  Permission Scanner   |  1.7   | Sierra  | `permissionscanner`     |
 |      Podofyllin       | 1.0b17 | Sierra  | `podofyllin`            |
 |       Pratique        |  1.1   | Sierra  | `pratique`              |
+|      Rosettavert      |  1.4   | Sierra  | `rosettavert`           |
 | RepairHomePermissions |  1.1   | Sierra  | `repairhomepermissions` |
 |       Route Map       | 1.0b2  | Sierra  | `routemap`              |
 |       Sandstrip       |  1.1   | Sierra  | `sandstrip`             |
