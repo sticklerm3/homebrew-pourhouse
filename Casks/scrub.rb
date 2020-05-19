@@ -1,13 +1,13 @@
 cask 'scrub' do
-  version '1.0'
-  sha256 '88a01791c0686833a9d3c0a6a974d54de706285a40914f8f738b3be99b69ccd2'
+  version '1.1,2020.02'
+  sha256 'ff33fe098d910409340fd4b228ed76a928eb1893947266013cb607fb8a6f9a47'
 
   # eclecticlightdotcom.files.wordpress.com was verified as official when first introduced to the cask
-  url 'https://eclecticlightdotcom.files.wordpress.com/2019/09/scrub1.zip'
+  url "https://eclecticlightdotcom.files.wordpress.com/#{version.after_comma.major}/#{version.after_comma.minor}/scrub#{version.before_comma.no_dots}.zip"
   name 'Scrub'
-  homepage 'https://eclecticlight.co/downloads/'
+  homepage 'https://eclecticlight.co/lockrattler-systhist/'
 
   depends_on macos: '>= :el_capitan'
 
-  app 'scrub1/Scrub.app'
+  app "scrub#{version.before_comma.no_dots}/Scrub.app"
 end

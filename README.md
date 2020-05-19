@@ -89,7 +89,7 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 |     Metamer     |   1.0  | El Capitan | `metamer`       |
 |     Precize     |   1.9  | El Capitan | `precize`       |
 |   Revisionist   |   1.7  | El Capitan | `revisionist`   |
-|      Scrub      |   1.0  | El Capitan | `scrub`         |
+|      Scrub      |   1.1  | El Capitan | `scrub`         |
 |    Search Key   |   1.3  | El Capitan | `searchkey`     |
 | Search Key Lite |   1.3  | El Capitan | `searchkeylite` |
 |   SilentKnight  |   1.6  | El Capitan | `silentknight`   |
