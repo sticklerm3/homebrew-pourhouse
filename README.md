@@ -86,6 +86,7 @@ brew cask install https://raw.githubusercontent.com/Sticklerm3/homebrew-pourhous
 |    Deep Tools   |   1.3  | El Capitan | `deeptools`     |
 |      Fintch     |   1.1  | El Capitan | `fintch`        |
 |   LockRattler   |  4.24  | El Capitan | `lockrattler`   |
+|     Metamer     |   1.0  | El Capitan | `metamer`       |
 |     Precize     |   1.9  | El Capitan | `precize`       |
 |   Revisionist   |   1.7  | El Capitan | `revisionist`   |
 |      Scrub      |   1.0  | El Capitan | `scrub`         |
